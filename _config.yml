@@ -1,0 +1,28 @@
+name: Discuss
+favicon: null
+layout_spectrum: 0.8249833676964045
+typography_spectrum: 0.002129542175680399
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.986551865004003
+  lightness: 0.07795233838260174
+  saturation: 0.5073202678468078
+  rhythmicContrast: 0.0783559619449079
+purpose: []
